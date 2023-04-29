@@ -3,10 +3,10 @@
 	url = https://github.com/Ayur-service/auth
 [submodule "hospital"]
 	path = hospital
-	url = ./hospital
+	url = https://github.com/Ayur-service/Hospital
 [submodule "user"]
 	path = user
-	url = ./user
+	url = https://github.com/Ayur-service/User
 [submodule "checkups"]
 	path = checkups
-	url = ./checkups
+	url = https://github.com/Ayur-service/Checkups
