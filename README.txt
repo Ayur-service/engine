@@ -1,5 +1,5 @@
 
-git clone https://github.com/Ayur-service/engine.git
+git clone --recursive https://github.com/Ayur-service/engine.git
 
 ./start.sh
 
