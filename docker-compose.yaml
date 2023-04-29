@@ -147,6 +147,6 @@ networks:
   ayur_user_data:
     name: ayur_user_data
   ayur_hospital:
-    driver: ayur_hospital
+    name: ayur_hospital
   ayur_checkup:
-    driver: ayur_checkup
+    name: ayur_checkup
